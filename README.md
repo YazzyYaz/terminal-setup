@@ -27,3 +27,7 @@ is part of this repository.
 
 The Shell Profile to use will be ZSH. It should be installed with Oh-My-Zsh included.
 Oh-My-Zsh profile to be used will be `agnoster`.
+
+## Vim Setup
+
+Install SpaceVim for convenience.
