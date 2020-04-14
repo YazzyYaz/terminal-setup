@@ -31,3 +31,8 @@ Oh-My-Zsh profile to be used will be `agnoster`.
 ## Vim Setup
 
 Install SpaceVim for convenience.
+
+## Tmux
+
+Oh-my-tmux
+https://github.com/gpakosz/.tmux
