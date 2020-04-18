@@ -36,3 +36,6 @@ Install SpaceVim for convenience.
 
 Oh-my-tmux
 https://github.com/gpakosz/.tmux
+
+## Wakatime on Vim
+https://wakatime.com/vim
